@@ -26,3 +26,5 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
 Your eaglercraft server is setup!
+link of how to set up the server: https://www.youtube.com/watch?v=LofD2BXNQ8Q
+link of how to customize eaglercraft server: https://www.youtube.com/watch?v=Y99TSngLNOE
